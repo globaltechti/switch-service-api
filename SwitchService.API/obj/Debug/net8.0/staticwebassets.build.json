@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5oY1LksuPAVknnciJrFUUe6Hv/+2A3khv5S9ky+B5nI=",
+  "Source": "SwitchService.API",
+  "BasePath": "_content/SwitchService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
